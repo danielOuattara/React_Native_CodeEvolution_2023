@@ -23,14 +23,14 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    marginTop: 64,
+    borderWidth: 4,
+    borderColor: "red",
+    flexDirection: "row",
+    // alignItems: "stretch", // default
     alignItems: "flex-start",
     alignItems: "flex-end",
     alignItems: "center",
     alignItems: "baseline",
-    flexDirection: "row",
-    // alignItems: "stretch", // default
-    marginTop: 64,
-    borderWidth: 4,
-    borderColor: "red",
   },
 });
