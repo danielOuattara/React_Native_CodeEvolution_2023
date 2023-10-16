@@ -29,11 +29,11 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: "stretch",
+    // alignItems: "stretch", // default
     alignItems: "flex-end",
-    alignItems: "flex-start",
-    alignItems: "center",
-    alignItems: "baseline",
+    // alignItems: "flex-start",
+    // alignItems: "center",
+    // alignItems: "baseline",
     marginTop: 64,
     borderWidth: 4,
     borderColor: "red",
@@ -41,6 +41,8 @@ const styles = StyleSheet.create({
 });
 
 /*  
-alignSelf: auto  // the default value that then inherits value from alignItems values 
+- alignSelf: auto  // the default value that then inherits value from alignItems values 
+- if "alignSelf" is specified for an item then it always override "alignItems" value.
+- if "alignSelf" is set to 'auto' then the targeted item will take value of "alignItems" 
 
 */
