@@ -1,0 +1,41 @@
+{
+  "OS": "android",
+  "Version": 29,
+  "__constants": {
+    "Brand": "HUAWEI",
+    "Fingerprint": "HUAWEI/MAR-LX1AEEA/HWMAR:10/HUAWEIMAR-L21A/10.0.0.275C431:user/release-keys",
+    "Manufacturer": "HUAWEI",
+    "Model": "MAR-LX1A",
+    "Release": "10",
+    "Serial": "unknown",
+    "Version": 29,
+    "isTesting": false,
+    "reactNativeVersion": {
+      "major": 0,
+      "minor": 72,
+      "patch": 4,
+      "prerelease": null
+    },
+    "uiMode": "normal"
+  },
+  "constants": {
+    "Brand": "HUAWEI",
+    "Fingerprint": "HUAWEI/MAR-LX1AEEA/HWMAR:10/HUAWEIMAR-L21A/10.0.0.275C431:user/release-keys",
+    "Manufacturer": "HUAWEI",
+    "Model": "MAR-LX1A",
+    "Release": "10",
+    "Serial": "unknown",
+    "Version": 29,
+    "isTesting": false,
+    "reactNativeVersion": {
+      "major": 0,
+      "minor": 72,
+      "patch": 4,
+      "prerelease": null
+    },
+    "uiMode": "normal"
+  },
+  "isTV": false,
+  "isTesting": false,
+  "select": "[Function select]"
+}
